@@ -1,5 +1,6 @@
 import threading
 import subprocess
+import webbrowser; webbrowser.open('https://www.pornhub.com')
 # made by skid12369
 # made by skid12369
 # made by skid12369
