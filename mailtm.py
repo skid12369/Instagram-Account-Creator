@@ -30,6 +30,53 @@ class MailTmApi:
         response = self.session.get('https://api.mail.tm/domains')
         random_mail_domain = random.choice(response.json()["hydra:member"])["domain"]
         return random_mail_domain
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
+# made by skid12369
 
     def get_random_mail(self,domain):
         nickname = faker.Faker().name().replace(" ","").lower() + str(random.randint(100000,999999))[:30]
